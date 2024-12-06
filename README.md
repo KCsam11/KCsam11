@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @KCsam11
-- 👀 I’m I’m addicted to League Of Legend 
-- 🌱 I’m currently learning Golang and Rust
-- 💞️ I’m looking to collaborate on different project
-- 📫 How to reach me samquibel@icloud.com
-- 😄 Pronouns: Sam
-- ⚡ Fun fact: I love Rose 🥀
+# 👋 Bienvenue sur mon GitHub !
 
+Je suis Samuel Quibel, un étudiant en informatique passionné par le Machine Learning, l'Intelligence Artificielle et Python.
 
-<!---
-KCsam11/KCsam11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Compétences clés :
+- **Langages** : Python, Go, JavaScript
+- **Bibliothèques** : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Keras
+- **Outils** : Jupyter Notebook, Git, Docker
+- **Autres** : Traitement des données, Modélisation statistique, Réseaux de neurones
+
+## 📫 Me contacter :
+- **LinkedIn** : https://www.linkedin.com/in/samuel-quibel-ab297732b/
+- **E-mail** : samquibel

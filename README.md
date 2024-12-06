@@ -10,4 +10,5 @@ Je suis Samuel Quibel, un étudiant en informatique passionné par le Machine Le
 
 ## 📫 Me contacter :
 - **LinkedIn** : https://www.linkedin.com/in/samuel-quibel-ab297732b/
-- **E-mail** : samquibel
+- **Kaggle** : https://www.kaggle.com/samuelquibel
+- **E-mail** : samquibel@icloud.com

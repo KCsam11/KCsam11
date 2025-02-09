@@ -5,7 +5,7 @@ Je suis Samuel Quibel, un étudiant en informatique passionné par le Machine Le
 ## 🌟 Compétences clés :
 - **Langages** : Python, Go, JavaScript, React, Next.JS
 - **Bibliothèques** : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Keras
-- **Outils** : Jupyter Notebook, Git
+- **Outils** : Jupyter Notebook, Git, Vercel, VScode
 - **Autres** : Traitement des données, Modélisation statistique, Réseaux de neurones
 
 ## 📫 Me contacter :

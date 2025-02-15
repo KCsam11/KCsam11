@@ -8,7 +8,7 @@
 🎯 Objectif : Devenir expert en **Machine Learning** et créer des solutions IA innovantes.  
 
 ## 🌟 Compétences clés :
-- **Langages** : Python, Go, JavaScript, React, Next.JS
+- **Langages** : Python, Go, JavaScript, React, NextJS
 - **Bibliothèques** : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Keras
 - **Outils** : Jupyter Notebook, Git, Vercel, VScode
 - **Autres** : Traitement des données, Modélisation statistique, Réseaux de neurones
